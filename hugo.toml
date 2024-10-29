@@ -1,0 +1,4 @@
+baseURL = 'https://jalvlue.github.io/'
+languageCode = 'en-us'
+title = 'jalvlue.github.io'
+theme = 'PaperMod'
